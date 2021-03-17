@@ -12,3 +12,5 @@ print("::::::")
 print("\n\n\n")
 
 print(Style.RESET_ALL + "MENSAJE!!!!!")
+
+print("Es necesario hacer commit para sincronizar el tag con github???")
